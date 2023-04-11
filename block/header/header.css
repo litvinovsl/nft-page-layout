@@ -1,0 +1,49 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 320px 0;
+}
+
+
+/* .header__link{
+    color: #CECECE;
+    font-size: 23px;
+    line-height: 120%;
+    align-self: center;
+} */
+/* .header__navigation{
+    display: flex;
+    flex-direction: row;
+    gap: 105px
+} */
+
+/* .header__button{
+    width: 175px;
+    height: 51px;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFF;
+    background-color: transparent;
+    outline: none;
+    border: 1px solid #FFF;
+    border-radius: 15px;
+} */
+
+/* .header__logo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 6.2px;
+} */
+
+/* .header__logo-text{
+    width: 73px;
+    height: 29px;
+} */
+
+/* .header__logo-ellipse{
+    width: 41px;
+    height: 41px;
+} */
