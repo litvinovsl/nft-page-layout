@@ -3,35 +3,3 @@
     flex-direction: column;
     padding-top: 218px;
 }
-
-.information-block__title{
-    font-weight: 400;
-    font-size: 72px;
-    line-height: 105%;
-    letter-spacing: -0.03em;
-    color: #FFF;
-    margin: 0;
-    width: 717px;
-}
-.information-block__title_bold{
-    font-weight: 530;
-}
-
-.information-block__paragraph{
-    font-size: 23px;
-    line-height: 120%;
-    color: #CECECE;
-    width: 499px;
-    margin: 0;
-    margin-top: 20px;
-}
-
-.information-block__button{
-    width: 331px;
-    height: 66px;
-    margin-top: 67px;
-    background: linear-gradient(92.84deg, #1DD844 1.44%, #CBF62E 126.29%);
-    box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.25);
-    border-radius: 20px;
-}
-
