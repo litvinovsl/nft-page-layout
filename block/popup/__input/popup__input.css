@@ -1,0 +1,16 @@
+.popup__input{
+    border: none;
+    border-radius: 10px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #757575;
+    width: 100%;
+    height: 52px;
+    margin-bottom: 18px;
+    outline:none;
+}
+
+.popup__input::-webkit-input-placeholder{
+    padding-left: 20px;
+}

@@ -1,0 +1,20 @@
+.popup__container{
+    display: flex;
+    z-index: 3;
+    background: radial-gradient(42.84% 203.07% at 15.58% -40.39%, #323E51 0%, #1D2532 100%);
+    border-radius: 30px;
+    position: relative;
+    flex-direction: column;
+    width: 600px;
+    min-height: 425px;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.15);
+    margin: auto;
+    padding-left: 70px;
+    position: relative;
+}
+@media screen and (max-width: 600px) {
+    .popup__container {
+        width: 282px;
+        min-height: 322px;
+    }
+}
